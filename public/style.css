@@ -1,0 +1,31 @@
+body{
+    background: url(img/bg2.jpg);
+}
+
+img{
+    height: 400px;
+    width: 200px;
+}
+
+.exol{
+    width: 200px;
+    height: 400px;
+}
+.produk{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+/* .kartu{
+    margin-bottom: 10px;
+    margin-top: 10px;
+} */
+
+.foto{
+    width: 200px;
+    height: 200px;
+}
+
+.d-flex{
+    margin-left: 900px;
+    margin-right: 100px
+}
